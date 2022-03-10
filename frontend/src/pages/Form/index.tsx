@@ -5,8 +5,8 @@ function Form() {
   const movie = {
     id: 1,
     image:
-      "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/jBJWaqoSCiARWtfV0GlqHrcdidd.jpg",
-    title: "The Witcher",
+      "https://trecobox.com.br/wp-content/uploads/2022/02/Tom-Holland-3.jpg",
+    title: "Hoem Aranha",
     count: 2,
     score: 4.5,
   };
